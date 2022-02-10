@@ -1,0 +1,11 @@
+table td a {
+  margin-right: 10px;
+}
+
+table td a i {
+  color: gray;
+}
+
+table td a:hover i{
+  color: rgb(78, 78, 78);
+}
