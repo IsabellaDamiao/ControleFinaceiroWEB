@@ -1,0 +1,7 @@
+.mensagem textarea {
+  width: 100%;
+  border: 1px solid #d1d3e2;
+  color: #6e707e;
+  padding: 10px;
+  border-radius: 1rem;
+}
