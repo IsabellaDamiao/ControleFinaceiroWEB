@@ -1,0 +1,22 @@
+.checkbox-success {
+  border-radius: 10rem;
+  border: 1px solid #d1d3e2;
+  padding: 10px;
+  background-color: #00ffa211;
+}
+.checkbox-danger {
+  border-radius: 10rem;
+  border: 1px solid #d1d3e2;
+  padding: 10px;
+  background-color: #ff150018;
+
+}
+
+.form-select {
+  width: 100%;
+  border: 1px solid #d1d3e2;
+  border-radius: 10rem;
+  padding: 10px;
+  color: #6e707e;
+}
+
